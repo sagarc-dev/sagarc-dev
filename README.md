@@ -42,14 +42,20 @@ You can click the Preview link to take a look at your changes.
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Developer and contributing to frontend and backend for building multi platform applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Technical Content.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sagar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-choudhari-1b182115a)
-
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Sagar%20Choudhary-red?style=flat&logo=Gmail&logoColor=white)](sagarsphotoworks@gmail.com)
+<!--
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sagar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-choudhari-1b182115a) -->
+- <!---
+- 👋 Hi, I’m @Sagar-Choudhari
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently pursuing Masters in Computer Applications
+- 📫 How to reach me sagarsphotoworks@gmail.com -->
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -57,7 +63,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
