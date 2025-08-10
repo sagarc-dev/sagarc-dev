@@ -1,16 +1,16 @@
 <!---
-Sagar-Choudhari/Sagar-Choudhari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sagar Choudhary/sagarc-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hKdDwtTZ6gD0AS7etL/giphy.gif?cid=ecf05e4774aew129szx7hbt9u9no7efqhq05rtoc51zmcjs5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="150"/>
   <h1>
-    Yo, I'm Sagar Choudhari! 👋
+    Yo, I'm Sagar Choudhary! 👋
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <div>
-    <img src="https://komarev.com/ghpvc/?username=sagar-choudhari&style=flat-square&color=blue" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=sagarc-dev&style=flat-square&color=blue" alt="Profile Views"/>
   </div>
   <div id="badges">
     <a href="https://www.linkedin.com/in/sagar-choudhari-1b182115a">
@@ -67,7 +67,7 @@ I'm a **Full Stack Developer** from Pune, India, with 4+ years of experience cra
 
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=sagar-choudhari&show_icons=true&theme=radical" alt="GitHub Stats"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-choudhari&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarc-dev&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
 ---
@@ -75,7 +75,7 @@ I'm a **Full Stack Developer** from Pune, India, with 4+ years of experience cra
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sagar-choudhari&theme=onedark" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sagarc-dev&theme=onedark" alt="GitHub Trophies"/>
 </div>
 
 ---
