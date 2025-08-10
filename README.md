@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://komarev.com/ghpvc/?username=sagarc-dev&style=flat-square&color=blue" alt="Profile Views"/>
   </div>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/sagar-choudhari-1b182115a">
+    <a href="https://www.linkedin.com/in/sagarc-dev">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="mailto:sagarc.dev@outlook.com">
@@ -88,7 +88,7 @@ Did you know I once debugged a Raspberry Pi sensor app at 2 AM with nothing but 
 ### 📬 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sagar-choudhari-1b182115a">
+  <a href="https://www.linkedin.com/in/sagarc-dev">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:sagarc.dev@outlook.com">
