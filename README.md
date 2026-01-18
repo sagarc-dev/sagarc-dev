@@ -4,7 +4,7 @@
     Sagar Choudhary | Senior Full-Stack Engineer 👨‍💻
   </h1>
   
-  <h3>Building apps faster than a Pune rickshaw in a narrow lane. 🛺</h3>
+  <h3>Building apps faster than a Pune rickshaw skipping a red light. 🛺</h3>
 
   <div>
     <a href="https://sagarc.dev">
@@ -26,14 +26,14 @@
 
 ---
 
-### 🧐 The "As Per Discussion" (About Me)
+### 🧐 The "As Per Our Discussion" (About Me)
 
-I’m a **Senior Full-Stack Engineer** with over 3 years of experience. I don't just write code; I perform daily miracles to ensure production doesn't catch fire. [cite_start]I specialize in **Flutter** (for the UI that clients will ask to change 5 times) and **Spring Boot** (for the backend that actually does the work). [cite: 3, 8]
+I’m a **Senior Full-Stack Engineer** with 3+ years of experience. I don't just write code; I perform daily miracles to ensure the server doesn't crash during a demo. I specialize in **Flutter** (for the UI that clients will ask to "make more pop") and **Spring Boot** (for the backend that actually keeps the company alive).
 
-- [cite_start]🚀 **The Numbers**: Deployed 15+ production apps[cite: 4, 11]. [cite_start]With 5,500+ downloads, I’ve officially bothered more people than a telemarketing caller from a credit card company[cite: 4].
-- [cite_start]🛠️ **The "Manager" Life**: Leading a team of 5+ developers[cite: 19]. [cite_start]My main job is code reviews and convincing everyone that "it works on my machine" is not a valid deployment strategy[cite: 19].
-- [cite_start]🏗️ **VM Track**: Built an end-to-end GPS system for construction machinery[cite: 29, 33]. [cite_start]Now heavy machinery can be tracked more accurately than your Swiggy delivery partner[cite: 33, 34].
-- [cite_start]📡 **Real-Time Addict**: WebSockets, SSE, and Redis[cite: 16, 25]. [cite_start]If the data isn't moving in milliseconds, I start getting withdrawal symptoms[cite: 13, 16].
+- 🚀 **The Stats**: Deployed 15+ production apps. With 5,500+ downloads, I’ve bothered more people than a "Sir, you have a pre-approved loan" phone call.
+- 🛠️ **The "Team Lead" Struggles**: Leading a team of 5+ developers. My main job is code reviews and explaining why we can't just "Google the entire project".
+- 🏗️ **VM Track**: Independently built an end-to-end GPS system for heavy machinery. Now, construction trucks are tracked more accurately than a 10-minute grocery delivery.
+- 📡 **Real-Time Addict**: I live for WebSockets, SSE, and Redis. If the data isn't moving in milliseconds, I start getting a headache.
 
 ---
 
@@ -44,9 +44,10 @@ I’m a **Senior Full-Stack Engineer** with over 3 years of experience. I don't 
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" alt="Dart"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JS"/>
 </p>
 
-**Backend & Heavy Lifting**
+**Backend & Cloud**
 <p align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
@@ -55,26 +56,17 @@ I’m a **Senior Full-Stack Engineer** with over 3 years of experience. I don't 
 </p>
 
 **Special Skillset**
-* [cite_start]**IoT**: Making Raspberry Pis talk to sensors because humans are too slow[cite: 15, 60].
-* [cite_start]**Payments**: HDFC & Juspay integration[cite: 14, 27]. [cite_start]I make sure the "Payment Successful" screen actually means the money moved. [cite: 14]
-* [cite_start]**Auth**: JWT—because "Trust, but verify" is my middle name[cite: 27].
+* **IoT**: Making Raspberry Pis process sensor data (RTD, IR, GPS) because I like hardware more than people.
+* **Payments**: HDFC & Juspay integration. I make sure the money actually moves and doesn't get "stuck for 3-5 business days".
+* **Auth**: JWT—because I have trust issues with unauthenticated requests.
 
 ---
 
-### 📊 Stats (The Report Card)
+### 📬 Connect With Me (No "Urgent" calls on Sundays please)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarc-dev&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=sagarc-dev&theme=onedark&column=3&margin-w=15" alt="GitHub Trophies" />
-</div>
-
----
-
-### 📬 Connect with Me
-
-- [cite_start]🌐 **Portfolio**: [sagarc.dev](https://sagarc.dev) (High effort, low latency) [cite: 2]
-- [cite_start]💼 **LinkedIn**: [/in/sagarc-dev](https://www.linkedin.com/in/sagarc-dev) (Where I pretend to be professional) [cite: 2]
-- [cite_start]📧 **Email**: [sagarc.dev@outlook.com](mailto:sagarc.dev@outlook.com) (For opportunities or debating why Biryani should never have raisins) [cite: 2]
+- 🌐 **Portfolio**: [sagarc.dev](https://sagarc.dev) (The fancy version) 
+- 💼 **LinkedIn**: [/in/sagarc-dev](https://www.linkedin.com/in/sagarc-dev) (Where I post corporate-ready replies) 
+- 📧 **Email**: [sagarc.dev@outlook.com](mailto:sagarc.dev@outlook.com) (For opportunities or debating why Biryani should never have raisins) 
 
 ---
 <p align="center">
