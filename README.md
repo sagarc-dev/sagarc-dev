@@ -1,103 +1,82 @@
-<!---
-Sagar Choudhary/sagarc-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hKdDwtTZ6gD0AS7etL/giphy.gif?cid=ecf05e4774aew129szx7hbt9u9no7efqhq05rtoc51zmcjs5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="150"/>
+  <img src="https://media.giphy.com/media/hKdDwtTZ6gD0AS7etL/giphy.gif" width="100"/>
   <h1>
-    Yo, I'm Sagar Choudhary! 👋
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Sagar Choudhary | Senior Full-Stack Engineer 👨‍💻
   </h1>
+  
+  <h3>Building apps faster than a Pune rickshaw in a narrow lane. 🛺</h3>
+
   <div>
-    <img src="https://komarev.com/ghpvc/?username=sagarc-dev&style=flat-square&color=blue" alt="Profile Views"/>
+    <a href="https://sagarc.dev">
+      <img src="https://img.shields.io/badge/PORTFOLIO-sagarc.dev-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    </a>
   </div>
+  <br/>
+  
   <div id="badges">
     <a href="https://www.linkedin.com/in/sagarc-dev">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:sagarc.dev@outlook.com">
-      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-<!--     
-    <a href="https://twitter.com/your-handle">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a> 
--->
+    <img src="https://komarev.com/ghpvc/?username=sagarc-dev&style=flat-square&color=blue" alt="Profile Views"/>
   </div>
 </div>
 
 ---
 
-### 😎 About Me
-I'm a **Full Stack Developer** from Pune, India, with 4+ years of experience crafting **mobile apps**, **backend systems**, and **AI solutions**. I lead teams to build slick apps and ML models that power smart infrastructure, using tools like **Flutter**, **Spring Boot**, and **Python**. When I'm not coding, I'm geeking out on Raspberry Pi projects or solving puzzles on LeetCode. 🚀
+### 🧐 The "As Per Discussion" (About Me)
 
-- 🛠️ **What I Do**: Build cross-platform apps, REST APIs, and Computer Vision models for real-world impact.
-- ⚡ **Vibe**: Love turning ideas into code with a side of coffee and tech memes.
-- 🌍 **Mission**: Create tech that makes industries smarter and lives easier.
+I’m a **Senior Full-Stack Engineer** with over 3 years of experience. I don't just write code; I perform daily miracles to ensure production doesn't catch fire. [cite_start]I specialize in **Flutter** (for the UI that clients will ask to change 5 times) and **Spring Boot** (for the backend that actually does the work). [cite: 3, 8]
+
+- [cite_start]🚀 **The Numbers**: Deployed 15+ production apps[cite: 4, 11]. [cite_start]With 5,500+ downloads, I’ve officially bothered more people than a telemarketing caller from a credit card company[cite: 4].
+- [cite_start]🛠️ **The "Manager" Life**: Leading a team of 5+ developers[cite: 19]. [cite_start]My main job is code reviews and convincing everyone that "it works on my machine" is not a valid deployment strategy[cite: 19].
+- [cite_start]🏗️ **VM Track**: Built an end-to-end GPS system for construction machinery[cite: 29, 33]. [cite_start]Now heavy machinery can be tracked more accurately than your Swiggy delivery partner[cite: 33, 34].
+- [cite_start]📡 **Real-Time Addict**: WebSockets, SSE, and Redis[cite: 16, 25]. [cite_start]If the data isn't moving in milliseconds, I start getting withdrawal symptoms[cite: 13, 16].
 
 ---
 
-### 🧰 Languages & Tools
+### 🧰 Tech Stack (The "Jugaad" & The Genius)
+
+**Mobile & Frontend**
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+</p>
+
+**Backend & Heavy Lifting**
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis"/>
+</p>
+
+**Special Skillset**
+* [cite_start]**IoT**: Making Raspberry Pis talk to sensors because humans are too slow[cite: 15, 60].
+* [cite_start]**Payments**: HDFC & Juspay integration[cite: 14, 27]. [cite_start]I make sure the "Payment Successful" screen actually means the money moved. [cite: 14]
+* [cite_start]**Auth**: JWT—because "Trust, but verify" is my middle name[cite: 27].
+
+---
+
+### 📊 Stats (The Report Card)
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarc-dev&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sagarc-dev&theme=onedark&column=3&margin-w=15" alt="GitHub Trophies" />
 </div>
-
----
-
-### 📊 My GitHub Stats
-
-<div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=sagar-choudhari&show_icons=true&theme=radical" alt="GitHub Stats"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarc-dev&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sagarc-dev&theme=onedark" alt="GitHub Trophies"/>
-</div>
-
----
-
-### 🤓 Tech Trivia
-Did you know I once debugged a Raspberry Pi sensor app at 2 AM with nothing but coffee and sheer willpower? 💻 My favorite tech stack is like a good playlist—Flutter for the rhythm, Python for the soul, and Spring Boot for the beat! 😎
 
 ---
 
 ### 📬 Connect with Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/sagarc-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sagarc.dev@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="http://sagarc.in">
-    <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=web&logoColor=white" alt="Website"/>
-  </a>
-</div>
+- [cite_start]🌐 **Portfolio**: [sagarc.dev](https://sagarc.dev) (High effort, low latency) [cite: 2]
+- [cite_start]💼 **LinkedIn**: [/in/sagarc-dev](https://www.linkedin.com/in/sagarc-dev) (Where I pretend to be professional) [cite: 2]
+- [cite_start]📧 **Email**: [sagarc.dev@outlook.com](mailto:sagarc.dev@outlook.com) (For opportunities or debating why Biryani should never have raisins) [cite: 2]
 
-🌟 *Based in Pune, India, and ready to code the future! Open to collabs, opportunities, and tech chats.*  
-*Check out my repos for projects like mobile apps, web apps, and IoT solutions!* 🚀
+---
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</p>
