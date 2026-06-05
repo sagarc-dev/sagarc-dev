@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hKdDwtTZ6gD0AS7etL/giphy.gif" width="100"/>
   <h1>
-    Sagar Choudhary | Senior Full-Stack Engineer 👨‍💻
+    Sagar Choudhary | Technical Lead Developer 👨‍💻
   </h1>
   
   <h3>Building apps faster than a Pune rickshaw skipping a red light. 🛺</h3>
@@ -28,7 +28,7 @@
 
 ### 🧐 The "As Per Our Discussion" (About Me)
 
-I’m a **Senior Full-Stack Engineer** with 3+ years of experience. I don't just write code; I perform daily miracles to ensure the server doesn't crash during a demo. I specialize in **Flutter** (for the UI that clients will ask to "make more pop") and **Spring Boot** (for the backend that actually keeps the company alive).
+I’m a **Technical Lead Developer** with 3+ years of experience. I don't just write code; I perform daily miracles to ensure the server doesn't crash during a demo. I specialize in **Flutter** (for the UI that clients will ask to "make more pop") and **Spring Boot** (for the backend that actually keeps the company alive).
 
 - 🚀 **The Stats**: Deployed 15+ production apps. With 5,500+ downloads, I’ve bothered more people than a "Sir, you have a pre-approved loan" phone call.
 - 🛠️ **The "Team Lead" Struggles**: Leading a team of 5+ developers. My main job is code reviews and explaining why we can't just "Google the entire project".
